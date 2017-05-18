@@ -9,6 +9,8 @@ public class Fibonnacci {
 	}
 	
 	private static int getFibo(int n) {
+		
+		// dif check
 	
 		if(n==0) {
 			return 1;
